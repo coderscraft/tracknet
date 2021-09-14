@@ -1,0 +1,37 @@
+.headerHomeIcon {
+  background: url('../../icons/home_grey.png') no-repeat;
+  background-size: contain;
+}
+
+.headerLaunchIcon {
+  background: url('../../icons/launch_grey.png') no-repeat;
+  background-size: contain;
+}
+
+.headerAnalyzeIcon {
+  background: url('../../icons/intercept_grey.png') no-repeat;
+  background-size: contain;
+}
+
+.headerEditIcon {
+  background: url('../../icons/edit_grey.png') no-repeat;
+  background-size: contain;
+}
+
+.headerAccountIcon {
+  background: url('../../icons/account_grey.png') no-repeat;
+  background-size: contain;
+}
+
+.icon {
+  margin: 20px auto !important;
+  width: 40px;
+  height: 40px;
+}
+
+.selected {
+  background-color: #707070;
+  border: 1px solid white;
+  border-radius: 4px;
+  padding: 10px;
+}
